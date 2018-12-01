@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteArray", "ByteArray\ByteArray.csproj", "{5C64D962-E514-4FBD-9A0B-59A9A10D0B66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteArray.Example", "ByteArray.Example\ByteArray.Example.csproj", "{BE0368E2-CC30-4143-ADE8-7AE961844160}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C64D962-E514-4FBD-9A0B-59A9A10D0B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C64D962-E514-4FBD-9A0B-59A9A10D0B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C64D962-E514-4FBD-9A0B-59A9A10D0B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C64D962-E514-4FBD-9A0B-59A9A10D0B66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE0368E2-CC30-4143-ADE8-7AE961844160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE0368E2-CC30-4143-ADE8-7AE961844160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE0368E2-CC30-4143-ADE8-7AE961844160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE0368E2-CC30-4143-ADE8-7AE961844160}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
