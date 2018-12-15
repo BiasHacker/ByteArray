@@ -1,0 +1,2 @@
+# ByteArray
+as3のByteArrayみたいなもの
